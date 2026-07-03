@@ -46,8 +46,3 @@ This repository serves as a centralized showcase of my design workflow. It highl
 
 ## 👨‍💻 About Me
 I am an engineering student with a strong passion for both the creative and technical sides of product development. Operating out of Pollachi, I love building event-driven websites and exploring how thoughtful UI/UX design can seamlessly integrate with clean front-end code to create highly engaging user experiences. 
-
-## 📬 Connect with Me
-* **GitHub:** [@balasubramaniyam1946](https://github.com/balasubramaniyam1946) | [@vibhakar2007](https://github.com/vibhakar2007)
-* **LinkedIn:** [Your LinkedIn URL]
-* **Portfolio:** [Your Portfolio URL]
